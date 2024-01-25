@@ -19,6 +19,7 @@ This Privacy Policy describes:
 -	Estimated age.
 -	Estimated gender.
 -   Estimated emotions.
+-   Estimated race.
 
 
 ## Purpose of Data Collection
